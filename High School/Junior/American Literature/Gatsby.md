@@ -2,7 +2,7 @@
 
 Prompt: (4) Fitzgerald once wrote, “ The very rich are different from you and me.” Using examples from the novel, explain how Fitzgerald portrays very rich people in the story.
 Articles:
- - (Poverty)[https://www.politifact.com/oregon/statements/2013/oct/24/jason-conger/are-there-more-people-living-poverty-now-there-wer/]
+ - [Poverty](https://www.politifact.com/oregon/statements/2013/oct/24/jason-conger/are-there-more-people-living-poverty-now-there-wer/)
 
 	Around the time the book "The Great Gatsby" was written there was a problem with the rich and poor having a major gap. Even in
 	today's times there are more homeless people than there ever has been according to Jason Conger at politifact.com. The richer getting richer and poor getting poorer is a true statement too. Many people have financial problems and most Americans are in debt. In the book, the author portrays very rich people as extravogent and like to spend money like Jay Gatsby.
