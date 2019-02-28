@@ -1,6 +1,7 @@
-# Gatsby Rough Draft
+# Gatsby Essay
 
 Prompt: (4) Fitzgerald once wrote, “ The very rich are different from you and me.” Using examples from the novel, explain how Fitzgerald portrays very rich people in the story.
+
 Articles:
  - [Poverty](https://www.politifact.com/oregon/statements/2013/oct/24/jason-conger/are-there-more-people-living-poverty-now-there-wer/)
 
